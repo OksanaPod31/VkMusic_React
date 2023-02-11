@@ -1,0 +1,22 @@
+.tit{
+    width: 100%;
+    background:  #262626;
+}
+.container{
+    width: 98%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-start;
+    
+    gap: 10%;
+}
+.Dav{
+    
+    height: 80%;
+    width: 70%;
+    
+}
+.lin{
+    width: 54px;
+height: 204px;
+}
